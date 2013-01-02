@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>usefulLinks</key>
+	<array>
+		<string>Payment at Doorstep</string>
+		<string>Weekend Shopping</string>
+		<string>Refer a Friend</string>
+		<string>Savings Calculator</string>
+	</array>
+	<key>newProducts</key>
+	<array>
+		<string>Britannia Classi...</string>
+		<string>Yardley Elegance...</string>
+		<string>Yardley Gold -...</string>
+		<string>Nivea Purifying...</string>
+	</array>
+	<key>bestSelling</key>
+	<array>
+		<string>Chekara/Sugar</string>
+		<string>Maggi Masala Noodles</string>
+		<string>Kandi Papu/Toor...</string>
+		<string>Vijaya Sunflower Oil</string>
+	</array>
+	<key>information</key>
+	<array>
+		<string>Terms &amp; condtions</string>
+		<string>Track your order</string>
+		<string>About us</string>
+		<string>Help</string>
+	</array>
+</dict>
+</plist>
